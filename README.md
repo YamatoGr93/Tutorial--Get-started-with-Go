@@ -187,13 +187,3 @@ go run webserver.go
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### How to Save This
-1. Create a new file named `README.md` in your project folder:
-   ```bash
-   touch README.md
-   ```
-2. Open `README.md` in your text editor and copy the above content into the file.
-3. Customize any sections as needed, especially the repository link in the "Getting Started" section.
-
-Feel free to ask if you need help with anything else!
